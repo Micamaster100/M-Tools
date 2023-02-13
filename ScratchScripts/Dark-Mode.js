@@ -9,7 +9,7 @@
 ╚═════════════════════════════════════════════════════════╝
 Brought to you by @Micamaster100!
 
-Dark Mode v0.0.2
+🌙 Dark Mode v0.0.2
 
 INSTRUCTIONS:
 1. Copy this code and paste it to your browser's console. First inspect the page by pressing f12 , [ctrl] + [shift] + [I], or access it through your browser.
