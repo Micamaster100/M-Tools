@@ -7,9 +7,13 @@
  ██║ ╚═╝ ██║      ██║   ╚██████╔╝╚██████╔╝███████╗███████║
  ╚═╝     ╚═╝      ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝
 ╚═════════════════════════════════════════════════════════╝
+
+ScratchScripts Hub:
+scratch.mit.edu/projects/802666392
+
 Brought to you by @Micamaster100!
 
-🌙 Dark Mode v0.0.2
+🌙 Dark Mode v0.0.3
 
 INSTRUCTIONS:
 1. Copy this code and paste it to your browser's console. First inspect the page by pressing f12 , [ctrl] + [shift] + [I], or access it through your browser.
@@ -30,7 +34,7 @@ function addGlobalStyle(css) {
 	head.appendChild(style);
 }
 
-    //editor
+    // Editor
     addGlobalStyle('.menu-bar_menu-bar_JcuHF{ background-color: #333333 !important; }');
     addGlobalStyle('.gui_body-wrapper_-N0sA{ background-color: #292929 !important; }');
     addGlobalStyle('.blocklySvg{ background-color: #292929 !important; }');
@@ -67,7 +71,7 @@ function addGlobalStyle(css) {
 
     addGlobalStyle('.blocklyScrollbarHandle { fill: #333333AA; !important;');
 
-    //player
+    // Player
     addGlobalStyle('.loader_background_2DPrW{ background-color: #333333 !important; }');
     addGlobalStyle('.inplace-textarea{ background-color: #333333 !important; }');
     addGlobalStyle('.preview .project-description{ background-color: #333333; color: #FFFFFF; !important; }');
@@ -86,7 +90,7 @@ function addGlobalStyle(css) {
     addGlobalStyle('.comment .action-list{ color: #FFFFFF !important; }');
     addGlobalStyle('.replies.collapsed > .comment:last-of-type::after{ background: linear-gradient(rgba(29, 29, 29, 0), #292929); }');
 
-    //website
+    // Website
     addGlobalStyle('#view{ background-color: #292929 !important; }');
     addGlobalStyle('#footer{ background-color: #333333 !important; }');
 
@@ -100,6 +104,4 @@ function addGlobalStyle(css) {
 
     addGlobalStyle('#body{ color: #FFFFFF !important; }');
     addGlobalStyle('#body{ text-shadow: none !important; }');
-
-
 })();
