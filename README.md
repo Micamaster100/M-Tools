@@ -12,7 +12,7 @@
 <div align="left">
 
 # 🔎 Find Scripts
-- [ScratchScripts](https://github.com/Micamaster100/M-Tools/tree/main/ScratchScripts)
+- [ScratchScripts](https://github.com/Micamaster100/M-Tools/blob/main/ScratchScripts)
 - [QuizzScripts](https://github.com/Micamaster100/M-Tools/tree/main/QuizzScripts)
 
 ## Instructions:
