@@ -1,14 +1,15 @@
 /*
-
-███╗   ███╗   ████████╗ ██████╗  ██████╗ ██╗     ███████╗
-████╗ ████║   ╚══██╔══╝██╔═══██╗██╔═══██╗██║     ██╔════╝
-██╔████╔██║█████╗██║   ██║   ██║██║   ██║██║     ███████╗
-██║╚██╔╝██║╚════╝██║   ██║   ██║██║   ██║██║     ╚════██║
-██║ ╚═╝ ██║      ██║   ╚██████╔╝╚██████╔╝███████╗███████║
-╚═╝     ╚═╝      ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝
+                                                                     
+ ███╗   ███╗   ████████╗ ██████╗  ██████╗ ██╗     ███████╗
+ ████╗ ████║   ╚══██╔══╝██╔═══██╗██╔═══██╗██║     ██╔════╝
+ ██╔████╔██║█████╗██║   ██║   ██║██║   ██║██║     ███████╗
+ ██║╚██╔╝██║╚════╝██║   ██║   ██║██║   ██║██║     ╚════██║
+ ██║ ╚═╝ ██║      ██║   ╚██████╔╝╚██████╔╝███████╗███████║
+ ╚═╝     ╚═╝      ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝
+╚═════════════════════════════════════════════════════════╝
 Brought to you by @Micamaster100!
 
-Dark Mode v0.0.1
+Dark Mode v0.0.2
 
 INSTRUCTIONS:
 1. Copy this code and paste it to your browser's console. First inspect the page by pressing f12 , [ctrl] + [shift] + [I], or access it through your browser.
@@ -16,7 +17,6 @@ INSTRUCTIONS:
 3. Done! Enjoy your new look!
 
 */
-
 
 (function() {
     'use strict';
@@ -69,7 +69,6 @@ function addGlobalStyle(css) {
 
     //player
     addGlobalStyle('.loader_background_2DPrW{ background-color: #333333 !important; }');
-    addGlobalStyle('.action-button{ background-color: #333333 !important; }');
     addGlobalStyle('.inplace-textarea{ background-color: #333333 !important; }');
     addGlobalStyle('.preview .project-description{ background-color: #333333; color: #FFFFFF; !important; }');
     addGlobalStyle('.project-title{ color: #FFFFFF !important; }');
@@ -88,13 +87,12 @@ function addGlobalStyle(css) {
     addGlobalStyle('.replies.collapsed > .comment:last-of-type::after{ background: linear-gradient(rgba(29, 29, 29, 0), #292929); }');
 
     //website
-    addGlobalStyle('#navigation{ background-color: #333333 !important; }');
     addGlobalStyle('#view{ background-color: #292929 !important; }');
     addGlobalStyle('#footer{ background-color: #333333 !important; }');
 
     addGlobalStyle('.box{ border: 0px}');
     addGlobalStyle('.box{ background-color: #333333 !important; }');
-    addGlobalStyle('.box .box-header{ border-top: 0px; border-bottom: 0px; background-color: #333333 !important; }');
+    addGlobalStyle('.box .box-header{ border-top: 0px; border-bottom: 0px; background-color: #3d3d3d !important; }');
     addGlobalStyle('.box .box-content{ background-color: #333333 !important; }');
     addGlobalStyle('.activity-li{ color: #9BA8BA !important; }');
     addGlobalStyle('.news li:nth-child(2n){ border-top: 0px; border-bottom: 0px; !important; }');
