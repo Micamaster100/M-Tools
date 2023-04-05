@@ -22,6 +22,8 @@ INSTRUCTIONS:
 
 */
 
+alert(" 🌙 - Dark Mode Activated!")
+
 (function() {
     'use strict';
 function addGlobalStyle(css) {
