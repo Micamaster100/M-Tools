@@ -22,7 +22,7 @@ INSTRUCTIONS:
 
 */
 
-alert(" 🌙 - Dark Mode Activated!")
+alert(" 🌙 - Dark Mode Activated!");
 
 (function() {
     'use strict';
