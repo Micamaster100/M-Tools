@@ -13,13 +13,6 @@ scratch.mit.edu/projects/802666392
 
 Brought to you by @Micamaster100!
 
-🌙 Dark Mode v0.0.3
-
-INSTRUCTIONS:
-1. Copy this code and paste it to your browser's console. First inspect the page by pressing f12 , [ctrl] + [shift] + [I], or access it through your browser.
-2. Paste it to your console.
-3. Done! Enjoy your new look!
-
 */
 
 alert(" 🌙 - Dark Mode Activated!");
