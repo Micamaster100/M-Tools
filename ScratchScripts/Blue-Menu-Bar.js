@@ -26,7 +26,7 @@ function addGlobalStyle(css) {
 	head.appendChild(style);
 }
 
-     addGlobalStyle('#navigation{ background-color: #4d97ff !important; }');
+     addGlobalStyle('#navigation{ background-color: #4d97ff !important; }'); // Main Page
  })();
 
 alert("🔵 - Blue has been brought back!");
