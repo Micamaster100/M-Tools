@@ -25,8 +25,9 @@ function addGlobalStyle(css) {
 	style.innerHTML = css;
 	head.appendChild(style);
 }
+	addGlobalStyle('#navigation{ background-color: #4d97ff !important; }'); // Website
+	addGlobalStyle('.menu-bar_menu-bar_JcuHF{ background-color: #4d97ff !important; }'); // Editor
 
-     addGlobalStyle('#navigation{ background-color: #4d97ff !important; }'); // Main Page
  })();
 
 alert("🔵 - Blue has been brought back!");
