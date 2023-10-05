@@ -21,5 +21,5 @@
 ![image](https://user-images.githubusercontent.com/98234233/218599135-a74e2e29-3bc2-47ab-bc54-aa463ff7f0c5.png)
   3. In your desired website, open your dev tools. Your browser might have some option to do so. (Try f12 or ctrl+shift+I)
   4. Open the Console from the top. You might press ">>" to do so.
-  5. Paste the code. (ctrl + V or ⌘ + V)
+  5. Paste the code. <kbd>ctrl</kbd> + <kbd>C</kbd> or <kbd>⌘</kbd> + <kbd>C</kbd> 
   6. Press enter.
